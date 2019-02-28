@@ -1,0 +1,11 @@
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/bin/Debug/netcoreapp2.0/DocumentMerger.deps.json
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/bin/Debug/netcoreapp2.0/DocumentMerger.runtimeconfig.json
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/bin/Debug/netcoreapp2.0/DocumentMerger.runtimeconfig.dev.json
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/bin/Debug/netcoreapp2.0/DocumentMerger.dll
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/bin/Debug/netcoreapp2.0/DocumentMerger.pdb
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/obj/Debug/netcoreapp2.0/DocumentMerger.csprojAssemblyReference.cache
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/obj/Debug/netcoreapp2.0/DocumentMerger.csproj.CoreCompileInputs.cache
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/obj/Debug/netcoreapp2.0/DocumentMerger.AssemblyInfoInputs.cache
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/obj/Debug/netcoreapp2.0/DocumentMerger.AssemblyInfo.cs
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/obj/Debug/netcoreapp2.0/DocumentMerger.dll
+/Users/alexcaskey/Documents/C# Projects/DocumentMergerSolution/DocumentMerger/obj/Debug/netcoreapp2.0/DocumentMerger.pdb
